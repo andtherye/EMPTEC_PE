@@ -1,3 +1,2 @@
 # ionic-ho214b
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/ionic-ho214b)
+edit on: https://stackblitz.com/edit/ionic-opco1u?file=app/main.ts
